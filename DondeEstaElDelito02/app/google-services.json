@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "656589492330",
+    "firebase_url": "https://dondeestaeldelito02.firebaseio.com",
+    "project_id": "dondeestaeldelito02",
+    "storage_bucket": "dondeestaeldelito02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656589492330:android:5b4e201668bb9a96",
+        "android_client_info": {
+          "package_name": "ga.josepolanco.dondeestaeldelito02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656589492330-ddvo63uiqmf4ob6d5lddhma7aa9tpej2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ga.josepolanco.dondeestaeldelito02",
+            "certificate_hash": "03afbd2e1adb5f3b671be40b756d00b8c15e1215"
+          }
+        },
+        {
+          "client_id": "656589492330-i4vj9tracs289e9aidunfugcc9s5m5vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt4HCmtOHNrt8qp736V9cd0_BicLbmyF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656589492330-i4vj9tracs289e9aidunfugcc9s5m5vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
